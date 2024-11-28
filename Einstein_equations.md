@@ -11,3 +11,13 @@ https://en.wikipedia.org/wiki/Differential_geometry#:~:text=Differential%20geome
 https://en.wikipedia.org/wiki/Elliptic_operator
 
 [Differential_operators](https://en.wikipedia.org/wiki/Category:Differential_operators)
+
+https://ncatlab.org/nlab/show/Levi-Civita+connection
+
+https://en.wikipedia.org/wiki/Parallel_transport
+
+https://en.wikipedia.org/wiki/Grothendieck_connection
+
+https://en.wikipedia.org/wiki/Weyl_tensor
+
+https://www.ligo.caltech.edu/page/what-is-ligo
