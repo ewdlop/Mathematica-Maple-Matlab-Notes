@@ -21,3 +21,7 @@ https://en.wikipedia.org/wiki/Grothendieck_connection
 https://en.wikipedia.org/wiki/Weyl_tensor
 
 https://www.ligo.caltech.edu/page/what-is-ligo
+
+https://en.wikipedia.org/wiki/Christoffel_symbols
+
+https://en.wikipedia.org/wiki/Category:Mathematical_physics
