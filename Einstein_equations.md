@@ -25,3 +25,5 @@ https://www.ligo.caltech.edu/page/what-is-ligo
 https://en.wikipedia.org/wiki/Christoffel_symbols
 
 https://en.wikipedia.org/wiki/Category:Mathematical_physics
+
+https://ncatlab.org/nlab/show/Einstein-Hilbert+action
