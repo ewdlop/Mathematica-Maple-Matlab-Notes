@@ -19,3 +19,5 @@ Calcusuls +
 # what do you need in order to do programming
 
 high school algebra 1
+
+# 
