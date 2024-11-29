@@ -11,3 +11,11 @@ check your hw
 study
 your math library
 research
+
+# what do you need in order to DO science
+
+Calcusuls +
+
+# what do you need in order to do programming
+
+high school algebra 1
