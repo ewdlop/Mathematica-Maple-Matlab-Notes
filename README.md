@@ -1,6 +1,10 @@
 # Mathematica-Maple-Matlab-Notes
 Good old memories
 
+![Mathematica Logo](images/Mathematica_logo.png)
+![Maple Logo](images/Maple_logo.png)
+![Matlab Logo](images/Matlab_logo.png)
+
 https://en.wikipedia.org/wiki/Computer_algebra
 
 https://stackoverflow.com/questions/16395704/what-is-symbolic-computation
